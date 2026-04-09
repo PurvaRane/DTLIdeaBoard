@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Minimalist Productivity App",
+    "description": "An app that only lets you write max 3 tasks per day to focus purely on completion without feeling overwhelmed.",
+    "timestamp": "2026-04-09T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Local Coffee Shop Finder",
+    "description": "A directory specifically tracking independent coffee shops with good WiFi and power outlets for remote workers.",
+    "timestamp": "2026-04-09T10:05:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "AI Story Generator",
+    "description": "Provide 3 words and let the AI generate a random fairy tale or short sci-fi story.",
+    "timestamp": "2026-04-09T10:15:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "Smart Plant Pot",
+    "description": "A plant pot that changes color based on moisture levels, allowing easy visualization of when to water.",
+    "timestamp": "2026-04-09T10:25:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "CSS Layout Generator",
+    "description": "Visual tool to generate complex CSS Grid layouts instantly by dragging and dropping boxes.",
+    "timestamp": "2026-04-09T10:30:00.000Z"
+  }
+]
