@@ -1,32 +1,38 @@
 [
   {
-    "id": "1",
-    "title": "Minimalist Productivity App",
-    "description": "An app that only lets you write max 3 tasks per day to focus purely on completion without feeling overwhelmed.",
-    "timestamp": "2026-04-09T10:00:00.000Z"
-  },
+  "id": "1",
+  "title": "Student Study Sprint App",
+  "description": "An app that creates 25–50 minute distraction-free study sprints with automatic breaks, performance tracking, and focus analytics to improve productivity.",
+  "timestamp": "2026-04-16T10:00:00.000Z"
+},
+{
+  "id": "2",
+  "title": "Budget-Based Meal Planner",
+  "description": "A smart planner that generates weekly meal plans based on your budget, dietary preferences, and local grocery prices.",
+  "timestamp": "2026-04-16T10:05:00.000Z"
+},
+{
+  "id": "3",
+  "title": "AI Resume Improver",
+  "description": "Upload your resume and get AI-powered suggestions to improve wording, structure, and ATS compatibility instantly.",
+  "timestamp": "2026-04-16T10:10:00.000Z"
+},
+{
+  "id": "4",
+  "title": "Skill Swap Platform",
+  "description": "A platform where users can exchange skills instead of money, like teaching coding in exchange for learning design or languages.",
+  "timestamp": "2026-04-16T10:15:00.000Z"
+},
+{
+  "id": "5",
+  "title": "Local Event Discovery App",
+  "description": "An app that shows nearby events like workshops, meetups, and college fests based on your interests and location.",
+  "timestamp": "2026-04-16T10:20:00.000Z"
+},
   {
-    "id": "2",
-    "title": "Local Coffee Shop Finder",
-    "description": "A directory specifically tracking independent coffee shops with good WiFi and power outlets for remote workers.",
-    "timestamp": "2026-04-09T10:05:00.000Z"
-  },
-  {
-    "id": "3",
-    "title": "AI Story Generator",
-    "description": "Provide 3 words and let the AI generate a random fairy tale or short sci-fi story.",
-    "timestamp": "2026-04-09T10:15:00.000Z"
-  },
-  {
-    "id": "4",
-    "title": "Smart Plant Pot",
-    "description": "A plant pot that changes color based on moisture levels, allowing easy visualization of when to water.",
-    "timestamp": "2026-04-09T10:25:00.000Z"
-  },
-  {
-    "id": "5",
-    "title": "CSS Layout Generator",
-    "description": "Visual tool to generate complex CSS Grid layouts instantly by dragging and dropping boxes.",
-    "timestamp": "2026-04-09T10:30:00.000Z"
+    "id": "1776328083680",
+    "title": "Hello Purva",
+    "description": "I am Purva Rane - 642515013",
+    "timestamp": "2026-04-16T08:28:03.680Z"
   }
 ]
