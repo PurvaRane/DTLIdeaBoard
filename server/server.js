@@ -1,3 +1,4 @@
+//Here is my server.js file
 import express from 'express';
 import cors from 'cors';
 import ideaRoutes from './routes/ideaRoutes.js';
