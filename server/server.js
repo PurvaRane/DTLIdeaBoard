@@ -13,6 +13,7 @@ app.use(express.json());
 // Routes
 app.use('/api/ideas', ideaRoutes);
 
+
 // Base route for health check
 app.get('/', (req, res) => {
   res.send('IdeaBoard API is running...');
